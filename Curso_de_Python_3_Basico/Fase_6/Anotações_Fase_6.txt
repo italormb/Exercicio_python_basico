@@ -1,0 +1,19 @@
+- Ensinar a faser a soma:
+>> n1=input('digite numero:')
+>> n2=input('digite numero:')
+>> s=n1+n2
+>> print('tá errado')
+>> print('a soma vale',s)
+>> n1=int(input('digite numero:'))
+>> n2=int(input('digite numero:'))
+>> print('a soma é',s)
+tipos de variáveis:
+int= 1,-2,...
+float=4.3,-5.3444444....
+bool= true, false
+str = 'ola', 'blz'
+***Para bool, se receber um numero é true e se não recerber nada é false***
+** Temos as classes do is
+isupper -> verificar se é maiuscula
+isalpha -> verifica se alfabetica
+isalnum -> alfanumerico

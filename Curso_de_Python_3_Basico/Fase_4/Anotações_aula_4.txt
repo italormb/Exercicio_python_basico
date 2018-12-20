@@ -1,0 +1,6 @@
+- Se os dados forem mensagem, palavras tem delimitadores para serem repassados.
+- usa-se aspas simples ou duplas, então tem-se aspas para delimitar a frase, é usual em aspas simples.
+- todas a funções tem parenteses, e temos print(que é escreva), ela faz alguma coisa aparecer na tela.
+-print(7+4) # mostra o resultado da operação
+-print('palavra') # mosta a palavra
+- print('palavra1=2' + 'palavra2=1') # p python junta as palavras ou os numeros

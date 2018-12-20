@@ -1,0 +1,36 @@
+- De onde vem a linguagem python?
+holanda
+- quem criou?
+-quando?
+Foi na holanda, 1982, guido van hossum, a linguagem c está dificultando de adaptar um programa, então criou uma liguagem interpretada com comandos simples e fáceis de entender, o c era grande e queria 
+reduzir e ser mais simples e ai criou o python.
+- O nome vem de um programa de televisão, e a simbolo da cobra só venho quando houve a publicação do livre que tinha animais na capa e nesse caso, uma cobra.
+- começou a ganhar um comunidade e ele foipara o eua ensinar com o projeto cp4e, e a darpa que ajudou a mesma que ajudei a net.
+- Em 2001 criou-se a python software foundation, cuida dos interesse e apoiada pela microsoft,google e globo(usar em ites e principalmente em processamento de video), mac os, linux.
+- Vários projetos de IoT tem a ferraenta como python como raspberrypi.
+- Onde foi parar o guido van hossen? Participou ativamente na versõa 3 de python e em 2005 estava em google, e em 2013 estava na dropbox.
+- Python é uma liguagem de proposito geral, mas php é focada para web e java é uma linguagem para mobile.
+- Os comando são fácil e intuitiva
+- python é multi plataforma, televisão, celular, pc etc...
+- python é batteries included, já vem com muita coisa baixada.
+- python é livre, open source. Baixar,fazer alterações, redistribuições;
+- Ela é extremamete orgaizada;
+- É uma linguagem orientada a objeto;
+- python é repleta de library, jogo, tela de celular, ap celular etc;
+- Zeno of Python 
+-Principais áreas de python, suportas grandes números, então se aplica em IA, Biotecnologia e computação em 3D
+- Zope que é uma gerenciador de conteudo, totalmente feito e python;
+-Django que é um framework de criação de conteudo para criar sites, e a globo utiliza.
+- quais softwares são feitos em python?
+- air canada, a reserva de assento é feito em programa em python;
+- bittorrent;
+- a globo;
+- a google, o robo que encontram conteudo (scroles);
+-youtube ;
+- nasa;
+-industrial light & magic, fizeram a rederização de star wars;
+- Arduino é compativel em python;
+-games feitos em python, frets on fire;
+- stakles python eve
+-civilization iv
+-battlefield 2

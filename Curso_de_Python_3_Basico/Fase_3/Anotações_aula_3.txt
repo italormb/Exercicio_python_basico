@@ -1,0 +1,4 @@
+- Tenho alguem que entende português(programador) e outra que entende de grego(PC que entende linguagem de máquina 010101), logo para comunicar entre os dois é necessário uma interprete(interpretador), que nessa analogia é o python;
+$ python --version  // Verificar a versão do python em linha de comando;
+$ import this  // mostra a lista de fatos
+

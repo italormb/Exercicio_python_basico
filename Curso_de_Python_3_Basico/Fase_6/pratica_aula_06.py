@@ -1,0 +1,12 @@
+print('=============== Autor: Ítalo Rodrigo ======')
+print('=============== Data:28/09/2018 ===========')
+print('Parte 1:')  
+print('Saber o tipo da variável')
+n1=input('digite um numero')
+print(type(n1))
+print('Parte 2')
+n1=int(input('Digite um valor:'))
+n2=int(input('Digite outro valor:'))
+s=n1+n2
+print('A soma entre {} e {} é {}' .format(n1,n2, n1+n2))
+print('A soma entre {0} e {1} é {2}' .format(n1,n2, n1+n2))

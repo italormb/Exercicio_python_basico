@@ -1,0 +1,23 @@
+Aula de operações Aritméticas 
+- Explicando a soma como foi passsado nas aulas passadas.
+adiçâo: +
+subtração:-
+Produto: *
+Quociente: /
+potência: **
+divisão inteira: //
+resto da divisãó: %
+Esses acimas são operadores, mas para funcionar tem que ter operandos que pode ser "int" "string" e tc ;
+- Ordem de precedẽncia:
+1- ()
+2 - **
+3- * ou / ou // ou %
+4- - + 
+=========================
+obs: o LIMITE DO PYTHON É O LIMITE DA SUA MEMÓRIA
+-Pode usar pow(,), mas você perde a ordem de precedência
+=========================================================
+OPERADOR COM STRING:
+'oi'+ oi' = oioi
+oi*5= oioioioioi
+=*5 : =====
