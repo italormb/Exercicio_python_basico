@@ -1,0 +1,22 @@
+Veremos condiçoes:
+O carro tem que fazer um caminho de um mapa
+o carro = objeto
+comandos = metodos  # ex:carro.siga()
+ex:
+carro.siga()
+carro.esquerda()
+carro.siga()
+carro.direita()
+carro.siga()
+carro.direita()
+
+esse exemplo foi de forma sequencial.
+
+Agora vamos aprender a executar isso de forma condicional,pois temos diversos caminhos para chegar em um ponto,e ao escolher uma possibilidade tera possibilidades diferentes das que vc teriase tivesse escolhido outro opção.
+
+ex:
+
+if operadores condicionais:
+	desenvolvimento
+else:
+	desenvolvimento contrário

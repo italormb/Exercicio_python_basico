@@ -1,0 +1,18 @@
+ansi
+faremos com a seguinte sintaxe:
+\033[style;text;back m
+stylo: fonte
+text=texto
+back=fundo
+exemplo:
+\033[0;33;44m
+
+código de stylo: 0 é sem stilo
+1 em negrito
+4 em sublinhado underline
+7 negativo
+
+texto
+30 branco até 37 cinza
+back
+40 branco até 47 cinza

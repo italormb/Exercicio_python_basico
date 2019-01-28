@@ -1,0 +1,9 @@
+Na fase 8 vamos trabalhar com módulos:
+Parte teórica, o essencial objetivo de adicionar modulos a linguagem, tem como objetivo em aumentar a funcionalidades para a linguagem;
+para incluir ou adicionar modulos temos que usar "import" 
+ou tem uma outra forma de import algo bem especifico,"" "from" modulo "import" especifico "(economiza a memoria)
+modulo math: ceil arrendonda pra cima,floor arredonda para baixa, trunc desconsidera a virgula, pow exp, sqrt e factorial.
+from math import sqrt.
+como eu sei quais bibliotecasposso importar?
+vai em python org -> verificar a versão do python -> librery reference -> explica todas a funcionalidades e exemplos.
+obs: em browse packpage, podemos instalar um diversidade muito grande de módulos, no entanto, para instalar esses modulos extras temos que instalar. 

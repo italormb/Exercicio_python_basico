@@ -1,0 +1,34 @@
+anotações dafase 9 de python:
+string é uma cadeia de caractere, e tem-se diversas funções de string para manipula-las. As atribuições de strings de uma variavel deve-se utilizar em aspas simples ou duplas, e a strings serão alocadas em cada espaço na regiãodamemoria e recebem um indice que indica o local onde deve-se encontrá-la, e o espaço tambem é contando como indice da memoria.
+OPerações:
+-Fatiamento
+frase= 'oi tudo bem'
+1º fatiar: frase[0]= o;
+2º fatiar: frase[0:7]='oi tud'
+3º fatiar: frase[0:7:2]='o u'
+4º fatiar: frase[:5]='oi t' #vai do inicio até o 4
+5º fatiar: frase[5:]='udo'  #vai do 5 até o final
+6º fatiar: frase[4::3]
+7º fatiar: frase[:6:1]
+
+Analise, com que letra ela começa, com queletra ela termina:
+len(frase)  #essa função retorna o tamanho da string frase
+frase.count('o')  # Ela conta quantas ocorrencia a letra o aparece na frase
+frase.count('o',0,13) #Do zero ao 13 mostra as ocorrenia de o
+frase.find('oi')  #ele mostra as posições de deo na string frase
+'tudo' in frase #existe tudo na frase? ele escreve true(é um operador)
+Transformação:
+frase.replace('tudo','android') #troca as palavras na frase
+frase.upper() # o que for maiusculo ele deixar, e o que forminuscula ele aumenta
+frase.upper().count('O') # ele deixa tudomaiucula e conta
+frase.lower() #inverso de upper
+frase.capitalize() #so a primeira letra deixa maiuscula e o resto minuscula
+frase.title() # esse faz capitalize em todas as palavras
+frase.strip() #ele remove todos os espaço antes da frase eo os apos da frase
+frase.rstrip() #é a mesma coisa que strip ele remove somente a da direita de 'r' rigth
+frase.lstrip() # mesma coisa da funçãoacima porém agora é da esquerda
+Divisão:
+dividido=frase.split() # Ocorrer uma divisão de palavras a parti dos espaços
+dividido[0][2]
+Junção:
+''.join(frase)
